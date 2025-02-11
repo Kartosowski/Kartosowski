@@ -6,10 +6,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kartosowski.kartosowski&left_color=purple&right_color=black&left_text=People%20that%20viewed%20my%20profile%20"  />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
