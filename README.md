@@ -3,8 +3,8 @@
 <div align="center">
   <img width="5px">
   <img src="https://github.com/user-attachments/assets/2d42e734-e70f-4b6f-ae18-726daa996232" width="200px">
-  <hr>
   <div>
+    <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -30,8 +30,8 @@
 <div align="center">
   <img width="5px">
   <img src="https://github.com/user-attachments/assets/74d80062-7f93-4db6-a3de-5fd4532f940d" width="300px">
-  <hr>
   <div>
+    <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
