@@ -15,7 +15,7 @@
 
 <br>
 <img width="5px">
-<img src="https://github.com/user-attachments/assets/74d80062-7f93-4db6-a3de-5fd4532f940d" width="250px">
+<img src="https://github.com/user-attachments/assets/74d80062-7f93-4db6-a3de-5fd4532f940d" width="300px">
 <div>
 <img width="4" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
