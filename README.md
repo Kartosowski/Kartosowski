@@ -2,4 +2,4 @@
 
 ###
 
-<img width="12px"><img src="https://github.com/user-attachments/assets/2d42e734-e70f-4b6f-ae18-726daa996232" width="200px">
+<img width="24px"><img src="https://github.com/user-attachments/assets/2d42e734-e70f-4b6f-ae18-726daa996232" width="200px">
