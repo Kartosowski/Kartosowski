@@ -3,6 +3,7 @@
 <div align="center">
   <img width="5px">
   <img src="https://github.com/user-attachments/assets/2d42e734-e70f-4b6f-ae18-726daa996232" width="200px">
+  <hr>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
     <img width="12" />
