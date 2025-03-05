@@ -51,6 +51,6 @@ Discord: Kart0s
 
 <hr>
 
-<center>
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31i5fcjefl3nak3ltz2thx33pvdq&count=1)
-</center>
+<div align="left">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31i5fcjefl3nak3ltz2thx33pvdq&count=5" alt="Spotify recently played"  />
+</div>
