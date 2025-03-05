@@ -48,3 +48,7 @@ Discord: Kart0s
     
   </div>
 </div>
+
+<hr>
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31i5fcjefl3nak3ltz2thx33pvdq)
