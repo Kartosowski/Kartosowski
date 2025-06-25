@@ -44,7 +44,4 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31i5fcjefl3nak3ltz2thx33pvdq&count=1" alt="Spotify recently played"  />
 </div> --->
 
-<hr>
 
-### https://kartos.vercel.app/
-![image](https://github.com/user-attachments/assets/f163e083-0e92-456e-869b-71d4e49a3e7e)
