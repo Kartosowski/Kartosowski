@@ -38,12 +38,6 @@
   </div>
 </div>
 
-<hr>
-<div align="left">
-  <img src="https://github.com/user-attachments/assets/74d80062-7f93-4db6-a3de-5fd4532f940d" width="300px">
-  <img width="5px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="redis logo"  />
-</div>
 
 
 <!--- <div align="center">
