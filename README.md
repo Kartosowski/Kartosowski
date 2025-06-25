@@ -7,8 +7,8 @@ I specialize in web development! (Full-stack Developer)
 
 <hr>
 <div align="center">
-  <img width="5px">
-  <img src="https://github.com/user-attachments/assets/2d42e734-e70f-4b6f-ae18-726daa996232" width="200px">
+<!--   <img width="5px">
+  <img src="https://github.com/user-attachments/assets/2d42e734-e70f-4b6f-ae18-726daa996232" width="200px"> -->
   <div>
     <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -60,6 +60,7 @@ I specialize in web development! (Full-stack Developer)
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31i5fcjefl3nak3ltz2thx33pvdq&count=1" alt="Spotify recently played"  />
 </div>
 
+<hr>
 
 # https://kartos.vercel.app/
 ![image](https://github.com/user-attachments/assets/f163e083-0e92-456e-869b-71d4e49a3e7e)
