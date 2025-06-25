@@ -1,9 +1,9 @@
 <img src="https://github.com/user-attachments/assets/d40cb251-ff67-4e5b-b1bc-2ada966de564" width="100%">
 
-<hr>
+<!-- <hr></hr> --->
 <div align="center">
-  <img width="5px">
-  <img src="https://github.com/user-attachments/assets/2d42e734-e70f-4b6f-ae18-726daa996232" width="200px">
+<!--   <img width="5px">
+  <img src="https://github.com/user-attachments/assets/2d42e734-e70f-4b6f-ae18-726daa996232" width="200px"> -->
   <div>
     <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
