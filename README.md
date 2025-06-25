@@ -49,7 +49,6 @@
   </div>
 </div>
 
-<hr>
 
 <!--- <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31i5fcjefl3nak3ltz2thx33pvdq&count=1" alt="Spotify recently played"  />
